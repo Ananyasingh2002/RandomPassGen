@@ -33,3 +33,7 @@ bash : `pip install tk`
 ## Screenshots
 
 ![Random Password Generator](image/Screenshot-2.png)
+
+Feel free to explore and modify the code according to your needs. If you encounter any issues or have suggestions, please feel free to open an issue on this repository.
+
+Happy reading and happy coding!
