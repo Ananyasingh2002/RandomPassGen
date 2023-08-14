@@ -1,6 +1,6 @@
 # Random Password Generator
 
-![Random Password Generator](images/Screenshot-1.png)
+![Random Password Generator](image/Screenshot-1.png)
 
 A simple random password generator with a graphical user interface (GUI) built using Python and Tkinter. This tool generates secure and randomized passwords with customizable length and character options.
 
@@ -32,4 +32,4 @@ bash : `pip install tk`
 
 ## Screenshots
 
-![Random Password Generator](images/Screenshot-2.png)
+![Random Password Generator](image/Screenshot-2.png)
